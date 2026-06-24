@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: DnD = Campaign Nod
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Welcome to the DnD Active Wiki - Nod

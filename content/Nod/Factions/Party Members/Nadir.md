@@ -50,3 +50,7 @@ Zenith, now adopting the name Nadir and transitioning to be non-binary, now wand
 
 Now, Nadir finds themselves in a refugee camp, assisting those who have need of his protection, and finds a curious group of folk that have seemingly caught his attention.
 
+***
+
+The Weasel Clan (No longer affiliated) (Gynn)
+"We were born with knives on our paws and daggers in our mouths. The gods made us strong so that we may rule over the weak. We are powerful. We are carnivores. We are weasels." [[Inara]] and [[Hala]] (sisters)

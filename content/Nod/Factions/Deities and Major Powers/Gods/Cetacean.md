@@ -3,7 +3,7 @@
 
 **Status:** Alive
 
-**Form:** Whale
+**Form:** Whale - Name: Darya
 
 **Oversees:**
 Wealth

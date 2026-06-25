@@ -26,4 +26,4 @@ Structure
 [[Clan Chelonii]] (Turtles): Counselor Zug
 [[Clan Passeri]] (Prey Birds): Counselor Armarae
 	*Sub-divisions needed
-[[Clan Lacertilia]] (Lizards): Counselor Kae
+[[Clan Lacertilla]] (Lizards): Counselor Kae

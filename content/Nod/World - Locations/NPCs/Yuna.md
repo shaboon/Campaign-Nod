@@ -1,13 +1,14 @@
 #Character
 ***
 
-**Name:** 
+**Name:** Yuna
 
-**Race:**
+**Race:** Gecko
 
-**Class:** 
+**Class:** N/A
 
 **Relationships:** 
+[[Tamson]] | Sibling
 
 ***
 
@@ -25,3 +26,4 @@
 ***
 
 **Background:**
+Missing

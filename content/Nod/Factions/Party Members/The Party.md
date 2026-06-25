@@ -2,7 +2,7 @@
 
 The greater goal for the party is to bring an end to the suffering caused by a mysterious disease.
 
-The party, comprising of [[Nadir]], [[Pennywort]], [[Keyweigh]], [[Story of Frei]], and [[Armando]], starts their adventure with a foreboding dream and assembly meeting called by The Greater Chain. The governing body of Errum (the central continent) and largest power of Nod.
+The party, comprising of [[Nadir]], [[Pennywort]], [[Keyweih]], [[Story of Frei]], and [[Armando]], starts their adventure with a foreboding dream and assembly meeting called by The Greater Chain. The governing body of Errum (the central continent) and largest power of Nod.
 
 With the swift arrival and then departure of the councilors of TGC, chaos ensued as the refugee camp spiraled into panic. Despite the efforts of [[Saoirse]], the remaining refugees scatter in every direction with no concern for their fellow creatures. In the madness, [[Nadir]] sees a figure mouth the name [[Farru]]. Having faced the disaster that was the TGC's crowd control, the group now moved north-east to find answers.
 

@@ -1,25 +1,27 @@
 #Character
 ***
 
-**Name:** 
+**Name:** Carmen
 
-**Race:**
+**Race:** Capybara
 
-**Class:** 
+**Class:** Noble
 
 **Relationships:** 
+[[Armando]] | Lover
 
 ***
-**Pronouns:** 
-**Sex:**
-**Gender:**
+
+**Pronouns:** She | Her
+**Sex:** Female
+**Gender:** Feminine - Female
 
 **Sexual Orientation:**
-
+Straight
 ***
 
-**Home Region:**
-**Hometown:** 
+**Home Region:** [[Eco Desert]]
+**Hometown:** [[Darren]]
 
 ***
 

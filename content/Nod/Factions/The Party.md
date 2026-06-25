@@ -1,3 +1,5 @@
+#Party
+
 The greater goal for the party is to bring an end to the suffering caused by a mysterious disease.
 
 The party, comprising of [[Nadir]], [[Pennywort]], [[Keyweigh]], [[Story of Frei]], and [[Armando]], starts their adventure with a foreboding dream and assembly meeting called by The Greater Chain. The governing body of Errum (the central continent) and largest power of Nod.

@@ -1,3 +1,8 @@
+
+Dungeons and Dragons Wiki and Lore Pages for the Nod Campaign.
+
+Contributed by DM - GloStyx.
+
 # Quartz v5
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming

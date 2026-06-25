@@ -1,3 +1,21 @@
+#Character #Party 
+***
+
+Name:  Nadir
+
+Race: Weasel
+
+Class: Fighter
+
+***
+
+Home Region: [[North Eastern Winter Wastes]]
+Hometown: [[Gynn]]
+
+Background:
+
+#Party
+
 Part of [[The Party]]
 
 Native of the [[North Eastern Winter Wastes]], Nadir

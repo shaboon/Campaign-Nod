@@ -1,4 +1,4 @@
-#region 
+#region
 ***
 
 Region:
@@ -10,4 +10,5 @@ Council Representative:
 ***
 
 Background:
-Eco Desert is one of the [[Regions]] of Nod
+Seated in the North Eastern Heights of the [[Mudflats]].
+

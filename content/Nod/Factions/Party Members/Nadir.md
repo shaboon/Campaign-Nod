@@ -1,24 +1,28 @@
 #Character #Party 
 ***
 
-Name:  Nadir
+**Name:**  Nadir
 
-Race: Weasel
+**Race:** Weasel
 
-Class: Fighter
+**Class:** Fighter
+
+***
+**Pronouns:** He | Him
+**Sex:** Male
+**Gender:** Trans Masc - Male
+
+**Sexual Orientation:**
+???
 
 ***
 
-Home Region: [[North Eastern Winter Wastes]]
-Hometown: [[Gynn]]
+**Home Region:** [[Wyntr Wastes]]
+**Hometown:** [[Gynn]]
 
-Background:
+***
 
-#Party
-
-Part of [[The Party]]
-
-Native of the [[North Eastern Winter Wastes]], Nadir
+**Background:**
 
 Dead Name: Zenith
 Old Identity: She | Her

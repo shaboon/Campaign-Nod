@@ -1,12 +1,12 @@
 #region
 ***
 
-Region:
+**Region:** [[Highlands]] | West of [[Celemor]]
 
-Population Majority:
+**Population Majority:** Nature
 
-Council Representative:
+**Speaker:**
 
 ***
 
-Background:
+**Background:**

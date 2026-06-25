@@ -1,3 +1,10 @@
+***
+
+In the center of the Errum (the main continent), the Tree of Origins, Urhn has birthed a great illness. Dark mushrooms sprout from the base and the spores of this unknown fungus have overtaken the central city Heartwood.  
+  
+By the efforts of the Great Chain, all traffic and pathways to Heartwood have been blocked denying even the highest-status individuals access to the capital.
+
+***
 
 You find yourself in the cold embrace of the void. As you gaze around your surroundings, all you see is darkness…
 

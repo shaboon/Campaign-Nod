@@ -1,16 +1,26 @@
 #Character #Party
 ***
 
-Name: Keyweigh
+**Name:** Keyweigh of Black Mob
 
-Race: Kiwi
+**Race:** Kiwi
 
-Class: Druid / Barbarian
+**Class:** Druid / Barbarian
+
+***
+**Pronouns:** He | Him
+Sex: Male
+Gender: Masculine - Male
+
+**Sexual Orientation:**
+Straight
 
 ***
 
 Home Region: [[Highlands]]
 Hometown: [[Forests of Celemor]]
+
+***
 
 Background:
 

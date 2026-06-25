@@ -1,11 +1,25 @@
-Race: Lizard
-Sex: Male
-Gender: Masculine - Male
-Sexual Orientation
-Species: Armadillo Girdled Lizard
-Home Region: [[Mudflats]]
+#Character
+***
+
+Name: 
+
+Race: Girdled Lizard
+
+Class: Guard
 
 Relationships:
 [[Lyl]] | Partner
 
-Gilfry is a masculine-leaning ex-soldier
+***
+
+Sex: Male
+Gender: Masculine - Male
+
+***
+
+Home Region: [[Mudflats]]
+Hometown: 
+
+***
+
+Background:

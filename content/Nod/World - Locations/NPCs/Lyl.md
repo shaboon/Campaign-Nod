@@ -1,6 +1,25 @@
-Race: Lizard
-Species: Crested Gecko
-Relations: 
+#Character
+***
 
+Name: 
+
+Race: Crested Gecko
+
+Class: Guard
+
+Relationships:
 [[Gilfry]] | Partner
-Former Guard reassigned in the [[Mudflats]]
+
+***
+
+Sex: Male
+Gender: Masculine - Male
+
+***
+
+Home Region: [[Eco-Desert]]
+Hometown: ???
+
+***
+
+Background:

@@ -18,3 +18,6 @@ When a character reaches:
 - 15: The character may feel much more relaxed and resistant to anxiety
 
 ***
+
+Once a character hits 20:
+They are absolved of the condition with resistance to Madness until longrest.

@@ -9,6 +9,7 @@
 
 **Relationships:** 
 [[Yuna]] | Sibling
+[[The Origin]] | Persona of Strength
 
 ***
 

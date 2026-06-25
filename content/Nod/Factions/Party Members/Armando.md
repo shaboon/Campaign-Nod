@@ -9,6 +9,7 @@
 
 **Relationships:**
 [[Carmen]]
+[[The Origin]] | Unknown Persona of Strength
 
 ***
 **Pronoun:** He | Him

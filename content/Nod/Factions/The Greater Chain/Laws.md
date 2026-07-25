@@ -1,6 +1,9 @@
+
 Rules put into place by [[The Greater Chain]] and enforced by the guard.
 
 While each settlement is allowed their own legislation and local enforcement, The Greater Chain enforces laws that apply over the entire continent of Nod. 
+
+===
 Section 1 (§1) Theft and Property
 ---
 1a. All thieving is punishable by the owner of the stolen goods, and the accused is subject to restraints via the local guard.

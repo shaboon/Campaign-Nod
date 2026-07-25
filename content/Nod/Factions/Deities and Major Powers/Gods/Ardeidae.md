@@ -11,7 +11,6 @@ Death
 **Stands for:**
 Peace
 Peaceful Rest
-Reaper
 
 ***
 

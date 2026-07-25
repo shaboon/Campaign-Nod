@@ -4,8 +4,6 @@ pageTitle: "Test"
 
 # notes
 
-test
-
-![[EncryptedNote.png]]
+![[EncryptedNote.jpg]]
 
 ![[Process.png]]

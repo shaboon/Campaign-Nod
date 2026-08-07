@@ -7,7 +7,7 @@ While each settlement is allowed their own legislation and local enforcement, Th
 Section 1 (§1) Theft and Property
 ---
 1a. All thieving is punishable by the owner of the stolen goods, and the accused is subject to restraints via the local guard.
-	1b. Should the accused be found  stealing property of The Greater Chain or its 
+	1b. Should the accused be found stealing property of The Greater Chain or its 
 	affiliates, local jurisdiction surrenders control of the investigation and the accused.
 
 2a. Hiding stolen items or harboring stolen goods is punishable by law, reasonable punishment extending to a public lashing or 3 days spent in public stocks.
@@ -63,19 +63,19 @@ Section 4 (§4): Substance and Property
 
 1a. Any flesh from a sentient being, as defined as able to speak and understand language, is considered prohibited. Possession and/or consumption of such materials is punishable at minimum by indefinite imprisonment and at maximum public execution of self and lineage.
 
-2a. Enhancers of any kind must be prescribed by an official, else any procession on person beyond 400mg, and 2000mg on property is considered unlawful pocession subject to immediate seizure and search of all properties. 
+2a. Enhancers of any kind must be prescribed by an official, else any procession on person beyond 400mg, and 2000mg on property is considered unlawful possession subject to immediate seizure and search of all properties. 
 		Fines start at 1g per 1mg.
-	2b. Enhancers of any kind must be prescribed by an official, else any procession on person beyond 400mL, and 2000mL on property is considered unlawful pocession subject to immediate seizure and search of all properties. 
+	2b. Enhancers of any kind must be prescribed by an official, else any procession on person beyond 400mL, and 2000mL on property is considered unlawful possession subject to immediate seizure and search of all properties. 
 	Fines start at 0.5g per 1mL.
 
 3a. Controlled substances found on person or property beyond single prescribed dosage is considered questionable, and individuals found of such may be subject to searches of person and property.
 
 4a. Encroachment of property by means of structure or foliage is subject to seizure or modification by the offended individual. Exceptions include natural growth from longstanding foliage, water and/or natural liquids, structures made by non-sentient beings/entities. 
 
-Section 5 (§5):
+Section 5 (§5): Decency and Public Display
 ---
 
-1a.
+1a. Improper clothing of one's self within a public setting as defined as exposure of coverable genitalia.
 
 2a.
 

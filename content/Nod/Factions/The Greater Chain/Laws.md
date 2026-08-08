@@ -77,6 +77,7 @@ Section 5 (§5): Decency and Public Display
 
 1a. Improper clothing of one's self within a public setting as defined as exposure of coverable genitalia.
 
-2a.
+2a. Offensive or Derogatory visuals worn on body or property may be subject to confiscation and imprisonment.
+	2b. Should resistance be found in the removal and/or review of relevant materials, the offender may be subject forceful imprisonment by any means at the location and any areas of which they may enter.
 
 3a.

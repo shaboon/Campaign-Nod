@@ -54,7 +54,7 @@ Unlawful Speech and Sound:
 	4b. Breach of the sound ordinance can be punished by either/both fines amounting up to 200g and increased sound ordinance restrictions.
 
 5a. No sound of any kind may be heard from outside the immediate walls/barriers of affected individual's property or residing structure.
-	5b. Breach of §5-5a is punishable by imprisonment, and fines of 250g
+	5b. Breach of §3-5a is punishable by imprisonment, and fines of 250g
 
 ===
 
@@ -80,4 +80,4 @@ Section 5 (§5): Decency and Public Display
 2a. Offensive or Derogatory visuals worn on body or property may be subject to confiscation and imprisonment.
 	2b. Should resistance be found in the removal and/or review of relevant materials, the offender may be subject forceful imprisonment by any means at the location and any areas of which they may enter.
 
-3a.
+3a. 

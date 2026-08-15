@@ -21,7 +21,7 @@ Structure
 (Your counselor will be the closest representative to your character, such as all mammals being represented by Counselor Caedric)
 
 [[Clan Muridae]] (Rats): Counselor Caedric
-	* They do oversee Clan Castor of which Castor resents
+	*They do oversee Clan Castor of which Castor resents
 [[Clan Anura]] (Frogs): Counselor Gru
 [[Clan Chelonii]] (Turtles): Counselor Zug
 [[Clan Passeri]] (Prey Birds): Counselor Armarae

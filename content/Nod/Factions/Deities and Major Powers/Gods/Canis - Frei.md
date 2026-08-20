@@ -4,10 +4,13 @@
 **Status:**
 
 **Form:**
+A Wolf
 
 **Oversees:**
+The Land, Hunt
 
 **Stands for:**
+Independence, Responsibility
 
 ***
 
